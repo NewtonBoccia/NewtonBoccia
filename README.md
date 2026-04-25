@@ -6,7 +6,7 @@
 *Connecting systems so humans don't have to.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Newton_Boccia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-newton-boccia/)
-[![Location](https://img.shields.io/badge/📍_Curitiba-PR,_Brasil-green?style=for-the-badge)](https://github.com/NewtonBoccia)
+[![Location](https://img.shields.io/badge/📍_Ponta_Grossa-PR,_Brasil-green?style=for-the-badge)](https://github.com/NewtonBoccia)
 [![Available](https://img.shields.io/badge/🟢_Disponível_para_oportunidades-Integration_/_ETL-brightgreen?style=for-the-badge)](https://github.com/NewtonBoccia)
 
 </div>
