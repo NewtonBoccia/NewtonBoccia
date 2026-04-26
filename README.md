@@ -78,7 +78,7 @@ Concorrente direto do Liven, construído do zero.
 
 ## 📫 Contato
 
-- 💼 **LinkedIn:** [linkedin.com/in/newtonboccia](https://www.linkedin.com/in/newtonboccia)
+- 💼 **LinkedIn:** [linkedin.com/in/newtonboccia](https://www.linkedin.com/in/francis-newton-boccia)
 - 📧 Disponível para projetos de **integração B2B, ETL, SAP** e **automação de processos**
 
 ---
